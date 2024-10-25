@@ -75,4 +75,3 @@ Para mais informações ou perguntas, entre em contato:
 ---
 
 Agradeço pela sua atenção e espero que este projeto desperte seu interesse!
-```
